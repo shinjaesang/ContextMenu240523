@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextMenu240523</string>
+    <string name="bntBg">배경색 변경</string>
+    <string name="bntRotation">버튼 회전 및 확대</string>
+</resources>
